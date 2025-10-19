@@ -1,3 +1,4 @@
+# Sabrina is going to write something here
 # Analog-Design-of-LDO-with-PMOS-pass-device
 
 This project discusses the design procedure of a conventional Low Dropout Voltage Regulator (LDO) circuit. The circuit consists of 2 stages, a 5-transistor operational transconductance amplifier (OTA) & a pass transistor. The circuit produces a regulated voltage of 0.9V using a reference voltage of 0.75V & a supply of 1.2V. 
